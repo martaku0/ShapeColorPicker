@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShapeColorPicker</string>
+    <string-array name="shapes_array">
+        <item>circle</item>
+        <item>square</item>
+        <item>triangle</item>
+    </string-array>
+</resources>
